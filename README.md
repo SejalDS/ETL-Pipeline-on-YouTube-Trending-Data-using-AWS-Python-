@@ -48,7 +48,9 @@ This project demonstrates a scalable, serverless ETL (Extract, Transform, Load) 
 │   └── dashboard_screenshot.png
 └── README.md
 
-##🧠 Learning Outcomes
+---
+
+## 🧠 Learning Outcomes
 Hands-on experience with AWS-based ETL architecture
 
 Real-world data engineering with serverless components
